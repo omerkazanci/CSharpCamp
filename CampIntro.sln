@@ -39,7 +39,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev5.4_GercekHayattaInterf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev5.5_GameProject", "Odev5.5\Odev5.5_GameProject.csproj", "{D9411604-2BD5-413D-8221-F69FD4906187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev7.1_LinqProject", "Odev7.1_LinqProject\Odev7.1_LinqProject.csproj", "{AD918CBD-FC15-48BA-97DB-CDC170494974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Odev7.1_LinqProject", "Odev7.1_LinqProject\Odev7.1_LinqProject.csproj", "{AD918CBD-FC15-48BA-97DB-CDC170494974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev7.3_LinqSorguları", "Odev7.3_LinqSorguları\Odev7.3_LinqSorguları.csproj", "{B51D87B1-B672-4647-86E5-66C43C6DBF2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev7.3LinqJoinOperationsAndDTO", "Odev7.3LinqJoinOperationsAndDTO\Odev7.3LinqJoinOperationsAndDTO.csproj", "{7EB596EC-CE72-46F3-A232-4D18BB6CA714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev8.2_EntityFrameworkDemo", "Odev8.2_EntityFrameworkDemo\Odev8.2_EntityFrameworkDemo.csproj", "{319957D5-617D-46C0-A058-70CBC12A0867}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +129,18 @@ Global
 		{AD918CBD-FC15-48BA-97DB-CDC170494974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD918CBD-FC15-48BA-97DB-CDC170494974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD918CBD-FC15-48BA-97DB-CDC170494974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51D87B1-B672-4647-86E5-66C43C6DBF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51D87B1-B672-4647-86E5-66C43C6DBF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51D87B1-B672-4647-86E5-66C43C6DBF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51D87B1-B672-4647-86E5-66C43C6DBF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB596EC-CE72-46F3-A232-4D18BB6CA714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB596EC-CE72-46F3-A232-4D18BB6CA714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB596EC-CE72-46F3-A232-4D18BB6CA714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB596EC-CE72-46F3-A232-4D18BB6CA714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319957D5-617D-46C0-A058-70CBC12A0867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319957D5-617D-46C0-A058-70CBC12A0867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319957D5-617D-46C0-A058-70CBC12A0867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319957D5-617D-46C0-A058-70CBC12A0867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

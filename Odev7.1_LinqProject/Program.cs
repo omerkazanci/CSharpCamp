@@ -60,7 +60,7 @@ namespace Odev7._1_LinqProject
 
 
             //////////  Metod oluşturarak yukarıdaki işlemleri metod içine alalım
-            List<Product> filterProducts = GetProducts(products)
+            List<Product> filterProducts = GetProducts(products);
 
 
         }
@@ -87,7 +87,6 @@ namespace Odev7._1_LinqProject
 
 
     }
-
 
 
     class Product
